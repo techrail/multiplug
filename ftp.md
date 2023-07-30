@@ -4,7 +4,7 @@ FTP stands for File Transfer Protocol.FTP is a standard internet protocol provid
 
 FTP Mechanism
 
-![Alt text](image.png)
+![FTP Mechanism](FTPMechanism.png)
 
 
 FTP connection Type
